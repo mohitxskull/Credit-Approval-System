@@ -1,0 +1,29 @@
+type: http_request
+model: http_request
+id: rq_checkEligibility
+createdAt: 2025-08-02T19:30:00.000000000
+updatedAt: 2025-08-02T19:30:00.000000000
+workspaceId: wk_JSiT4xAc3k
+folderId: null
+authentication: {}
+authenticationType: null
+body:
+  text: |-
+    {
+      "customer_id": 1,
+      "loan_amount": 100000,
+      "interest_rate": 10.5,
+      "tenure": 12
+    }
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: Content-Type
+  value: application/json
+  id: xehp4Xa3EL
+method: POST
+name: Check Eligibility
+sortPriority: -1754160322597.0
+url: ${[ BASE ]}/api/check-eligibility/
+urlParameters: []

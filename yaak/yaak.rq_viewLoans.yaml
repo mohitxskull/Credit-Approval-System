@@ -1,0 +1,19 @@
+type: http_request
+model: http_request
+id: rq_viewLoans
+createdAt: 2025-08-02T19:30:00
+updatedAt: 2025-08-02T19:33:14.168781887
+workspaceId: wk_JSiT4xAc3k
+folderId: null
+authentication: {}
+authenticationType: null
+body:
+  text: ''
+bodyType: null
+description: ''
+headers: []
+method: GET
+name: View Customer Loans
+sortPriority: -1754160322594.0
+url: ${[ BASE ]}/api/view-loans/1/
+urlParameters: []

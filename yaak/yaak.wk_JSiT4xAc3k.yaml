@@ -1,0 +1,14 @@
+type: workspace
+model: workspace
+id: wk_JSiT4xAc3k
+createdAt: 2025-08-02T18:45:01.487739848
+updatedAt: 2025-08-02T18:45:01.487740912
+authentication: {}
+authenticationType: null
+description: ''
+headers: []
+name: Credit Approval System
+encryptionKeyChallenge: null
+settingValidateCertificates: true
+settingFollowRedirects: true
+settingRequestTimeout: 0

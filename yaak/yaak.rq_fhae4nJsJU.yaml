@@ -1,0 +1,30 @@
+type: http_request
+model: http_request
+id: rq_fhae4nJsJU
+createdAt: 2025-08-02T18:45:22.599722472
+updatedAt: 2025-08-02T19:28:42.108579516
+workspaceId: wk_JSiT4xAc3k
+folderId: null
+authentication: {}
+authenticationType: null
+body:
+  text: |-
+    {
+      "first_name": "Skull",
+      "last_name": "Dot",
+      "age": 17,
+      "monthly_income": 10000000,
+      "phone_number": 1234567890
+    }
+bodyType: application/json
+description: ''
+headers:
+- enabled: true
+  name: Content-Type
+  value: application/json
+  id: xehp4Xa3EK
+method: POST
+name: Register
+sortPriority: -1754160322598.0
+url: ${[ BASE ]}/api/register/
+urlParameters: []

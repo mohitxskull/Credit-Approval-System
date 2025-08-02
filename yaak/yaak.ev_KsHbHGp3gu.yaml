@@ -1,0 +1,15 @@
+type: environment
+model: environment
+id: ev_KsHbHGp3gu
+workspaceId: wk_JSiT4xAc3k
+createdAt: 2025-08-02T18:45:01.507413894
+updatedAt: 2025-08-02T21:11:57.398217377
+name: Global Variables
+public: true
+base: true
+variables:
+- enabled: true
+  name: BASE
+  value: http://localhost:8000
+  id: 7axUTwKjHf
+color: null

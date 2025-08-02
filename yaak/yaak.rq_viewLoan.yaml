@@ -1,0 +1,19 @@
+type: http_request
+model: http_request
+id: rq_viewLoan
+createdAt: 2025-08-02T19:30:00
+updatedAt: 2025-08-02T21:17:57.351992636
+workspaceId: wk_JSiT4xAc3k
+folderId: null
+authentication: {}
+authenticationType: null
+body:
+  text: ''
+bodyType: null
+description: ''
+headers: []
+method: GET
+name: View Loan
+sortPriority: -1754160322595.0
+url: ${[ BASE ]}/api/view-loan/2/
+urlParameters: []
